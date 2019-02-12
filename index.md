@@ -6,13 +6,13 @@ I am studeing in the BSU, the Faculty of Radiophysics and Computer Technologies.
 ## Highlights and Achievements
 - Graduated from the Lyceum of the Belarusian National Technical University
 - Took part in the St. Petersburg Tournament of young mathematicians(2015) and Republican tournament of young mathematicians(2016)
-- studeing at the 2nd year of military department
+- Studeing at the 2nd year of military department
 
 ## My Interests
 
 - I am keen on archery and was engaging in it from 2014 till 2016.
 - I want to connect my future work not only with programming, but also with hardware.
-- Right know? one of my the most stable hobby is travelling. I've been visiting lots of cities in Belarus and a few abroad.
+- Right know one of my the most stable hobby is travelling. I've been visiting lots of cities in Belarus and a few abroad.
 - I am playing volleyball at the amateur level.
 
 ## Tasks
