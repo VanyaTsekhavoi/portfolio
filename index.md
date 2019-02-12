@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/VanyaTsekhavoi/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hellow everyone! My name is **Ivan Tsekahavoi**.
+I am studeing in the BSU, the Faculty of Radiophysics and Computer Technologies. I am on my third year. My specialty is Applied Informatics. Among my qualities, I can single out scrupulousness and craving for knowledge. A bit lazy, which allows me to do work efficiently from the first time. At crucial moments, I am able to discard all distractions and fully concentrate on achieving the goal. Carefully disassemble the material, which is needed for my work. I am friendly with the exact sciences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Highlights and Achievements
+- Graduated from the Lyceum of the Belarusian National Technical University
+- Took part in the St. Petersburg Tournament of young mathematicians(2015) and Republican tournament of young mathematicians(2016)
+- studeing at the 2nd year of military department
 
-### Markdown
+### My Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- I am keen on archery and was engaging in it from 2014 till 2016.
+- I want to connect my future work not only with programming, but also with hardware.
+- Right know? one of my the most stable hobby is travelling. I've been visiting lots of cities in Belarus and a few abroad.
+- I am playing volleyball at the amateur level.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VanyaTsekhavoi/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Tasks
