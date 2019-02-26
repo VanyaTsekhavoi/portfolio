@@ -16,7 +16,7 @@ I am studeing in the BSU, the Faculty of Radiophysics and Computer Technologies.
 - I am playing volleyball at the amateur level.
 
 ## Tasks
-### Kata
+### [Kata](https://www.codewars.com/dashboard)
 Basic coding 1;
 ### Padawans
 [0.](https://github.com/VanyaTsekhavoi/FancyCalc.git)
@@ -28,3 +28,5 @@ Basic coding 1;
 [6.](https://github.com/VanyaTsekhavoi/PadawansTask6.git)
 [7.](https://github.com/VanyaTsekhavoi/PadawansTask7.git)
 [8.](https://github.com/VanyaTsekhavoi/PadawansTask8.git)
+[9.](https://github.com/VanyaTsekhavoi/PadawansTask9.git)
+[10.](https://github.com/VanyaTsekhavoi/PadawansTask10.git)
