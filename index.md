@@ -30,3 +30,7 @@ Basic coding 1;
 [8.](https://github.com/VanyaTsekhavoi/PadawansTask8.git)
 [9.](https://github.com/VanyaTsekhavoi/PadawansTask9.git)
 [10.](https://github.com/VanyaTsekhavoi/PadawansTask10.git)
+[11.](https://github.com/VanyaTsekhavoi/PadawansTask11.git)
+[12.](https://github.com/VanyaTsekhavoi/PadawansTask12.git)
+[13.](https://github.com/VanyaTsekhavoi/PadawansTask13.git)
+[15.](https://github.com/VanyaTsekhavoi/PadawansTask15.git)
