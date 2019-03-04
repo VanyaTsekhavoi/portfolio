@@ -17,7 +17,8 @@ I am studeing in the BSU, the Faculty of Radiophysics and Computer Technologies.
 
 ## Tasks
 ### [Kata](https://www.codewars.com/dashboard)
-Basic coding 1;
+Basic coding 1,19;
+
 ### Padawans
 [0.](https://github.com/VanyaTsekhavoi/FancyCalc.git)
 [1.](https://github.com/VanyaTsekhavoi/PadawansTask1.git)
@@ -34,3 +35,6 @@ Basic coding 1;
 [12.](https://github.com/VanyaTsekhavoi/PadawansTask12.git)
 [13.](https://github.com/VanyaTsekhavoi/PadawansTask13.git)
 [15.](https://github.com/VanyaTsekhavoi/PadawansTask15.git)
+
+### Grow
+[Tic-Toc](https://github.com/VanyaTsekhavoi/Tic-Tok.git)
