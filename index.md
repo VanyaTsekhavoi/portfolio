@@ -16,9 +16,8 @@ I am studeing in the BSU, the Faculty of Radiophysics and Computer Technologies.
 - I am playing volleyball at the amateur level.
 
 ## Tasks
+
 ### [Kata](https://www.codewars.com/users/VanyaTsekhavoi)
-Basic coding 1,2,19;
-OOP 1,2,3,5
 
 ### Padawans
 [0.](https://github.com/VanyaTsekhavoi/FancyCalc.git)
