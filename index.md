@@ -13,7 +13,7 @@ I am studeing in the BSU, the Faculty of Radiophysics and Computer Technologies.
 ## Highlights and Achievements
 
 - Took part in the St. Petersburg Tournament of young mathematicians(2015) and Republican tournament of young mathematicians(2016).
-- Publication of an article about industrial networks in the journal <Электроника ИНФО> (2019).
+- Publication of an article about industrial networks in the journal **"Электроника ИНФО"** (2019).
 
 ## Additional Information
 
