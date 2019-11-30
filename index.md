@@ -1,7 +1,7 @@
 # About Me
 
 Hellow everyone! My name is **Ivan Tsekahavoi**.
-I am studeing in the BSU, the Faculty of Radiophysics and Computer Technologies. I am on my fourth year. My specialty is Applied Informatics. Among my qualities, I can single out scrupulousness and craving for knowledge. I make thorough preparations for the work before get to it, which can slightly increase the total time it takes to complete it. I try to do the job efficiently and from the first time. At crucial moments, I am able to discard all distractions and fully concentrate on achieving the goal. I am a quick learner and friendly with the exact sciences.
+I am studying in the BSU, the Faculty of Radiophysics and Computer Technologies. I am on my fourth year. My specialty is Applied Informatics. Among my qualities, I can single out scrupulousness and craving for knowledge. I make thorough preparations for the work before get to it, which can slightly increase the total time it takes to complete it. I try to do the job efficiently and from the first time. At crucial moments, I am able to discard all distractions and fully concentrate on achieving the goal. I am a quick learner and friendly with the exact sciences.
 
 ## Education
 
